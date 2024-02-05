@@ -1,0 +1,39 @@
+.question {
+  font-size: 2rem;
+  margin: 1rem;
+  padding: 1rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h4 {
+  font-size: 2rem;
+}
+.btn {
+  border: none;
+  background-color: transparent;
+}
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 55%;
+}
+.answer {
+  font-size: 2rem;
+  margin: 1rem;
+
+  margin-left: 4rem;
+  color: grey;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  gap: 5rem;
+}
