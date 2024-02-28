@@ -40,7 +40,7 @@ h4:hover {
   justify-content: center;
 }
 .sign-up-container {
-  background-image: url('./assets/arrangement-black-friday-shopping-carts-with-copy-space.jpg');
+  background-image: url('./assets/images-flipkart.jpg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position-x: center;
@@ -78,7 +78,7 @@ input {
 }
 
 .log-in {
-  background-image: url(./assets//business-buy-card-commercial-wallpaper-836f37178e025794e66a6af4640d7f0a.jpg);
+  background-image: url(./assets/flipkart.jpg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position-x: center;

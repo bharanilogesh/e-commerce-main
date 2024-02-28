@@ -65,15 +65,15 @@ const Navbar = ({ updateSearchQuery }) => {
               🛒 <span className='cart-count'>{totalQuantity}</span>
             </div>
           </Link>
-        <div className='profile'></div>
+        <div className='profile'>
         <div className='nav-content'>
           <button onClick={handleUser}>
-            Profile
+            <span className='pro'>Profile</span>
           </button>
           <button onClick={logout}>
-            Logout
+          <span className='logout'>Logout</span> 
           </button>
-          
+          </div>
         </div>
       </div>
     </div>

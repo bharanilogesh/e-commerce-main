@@ -4,12 +4,12 @@ export const advertiseItem = [
   {
     id: uuidv4(),
     itemName: '',
-    img: 'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1689689785/Croma%20Assets/CMS/LP%20Page%20Banners/2023/HP%20Top%20Rotating%20Deals/19th%20July/HP_jabraTWS_19July2023_ahampu.jpg?tr=w-2048',
+    img: 'https://rukminim2.flixcart.com/fk-p-flap/850/400/image/73aef7183e5a5097.jpeg?q=90',
   },
   {
     id: uuidv4(),
     itemName: '',
-    img: ' https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1689689785/Croma%20Assets/CMS/LP%20Page%20Banners/2023/HP%20Top%20Rotating%20Deals/19th%20July/HP_WM_19July2023_dcpm8y.jpg?tr=w-2048',
+    img: ' https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQXwsGi1xQO8BF8hiAzTjnEQHRCs-8S0vZMg&usqp=CAU',
   },
   {
     id: uuidv4(),
@@ -19,13 +19,13 @@ export const advertiseItem = [
   {
     id: uuidv4(),
     itemName: '',
-    img: 'https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1689689785/Croma%20Assets/CMS/LP%20Page%20Banners/2023/HP%20Top%20Rotating%20Deals/19th%20July/HP_amazfitSW_19July2023_vhgdlk.jpg?tr=w-2048',
+    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVmWiVdurqwSnqalVVLQsae-2rDXpxhLhxlA&usqp=CAU',
   },
 ];
 
 export const separateItems = [
   {
-    name: 'Wearables',
+    name: 'Watches',
     id: uuidv4(),
 
     productImg:
@@ -34,7 +34,7 @@ export const separateItems = [
 ];
 export const mobile = [
   {
-    name: 'mobile',
+    name: 'Mobiles',
     id: uuidv4(),
 
     productImg:
@@ -43,7 +43,7 @@ export const mobile = [
 ];
 export const washingMachine = [
   {
-    name: 'washing machine',
+    name: 'Washing Machine',
     id: uuidv4(),
 
     productImg:
@@ -53,7 +53,7 @@ export const washingMachine = [
 
 export const audio = [
   {
-    name: 'Home theater & sound bars',
+    name: 'Home theater & Sound bars',
     id: uuidv4(),
 
     productImg:
@@ -62,7 +62,7 @@ export const audio = [
 ];
 export const tv = [
   {
-    name: 'television',
+    name: 'Television',
     id: uuidv4(),
 
     productImg:
@@ -71,7 +71,7 @@ export const tv = [
 ];
 export const camera = [
   {
-    name: 'camera',
+    name: 'Camera',
     id: uuidv4(),
 
     productImg:
